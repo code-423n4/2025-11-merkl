@@ -1,0 +1,116 @@
+==============================================================
+Guild: Code4rena
+Channel: ARCHIVE-PUBLIC / merkl-nov
+==============================================================
+
+[11/21/2025 11:57] cloudellie
+👋 Hello and welcome to the $18,000 in USDC **Merkl** audit channel!
+
+📆 Audit opens Tuesday, 25 November 2025 (20:00 UTC) and runs through Monday, 01 December 2025 (20:00 UTC) (6 days).
+
+We'll be posting relevant links, documentation, etc. here, so if you intend to participate in this audit, consider enabling notifications for this channel. 🐺 ⏰
+
+## Notes
+**❗A coded, runnable PoC is required for all High/Medium submissions to this audit.**
+- The audit repo includes a basic PoC template to run the test suite.
+- PoCs **must** use the test suite provided in the audit repo.
+- Your submission will be marked as `Insufficient` if the POC is not runnable and working with the provided test suite.
+- Exception: PoC is optional (though recommended) for wardens with signal ≥ 0.68
+
+**Join the audit:** https://code4rena.com/audits/2025-11-merkl
+
+
+[11/25/2025 20:24] cloudellie
+## 🔎 Got audit-related questions? Here's your roadmap
+
+Find the information you need efficiently:
+
+1. Step 1: **Review project documentation** in the audit repo. [Join the audit](https://code4rena.com/audits/2025-11-merkl) for access.
+2. Step 2: Use **🤖 Docs Wolf,** C4's documentation bot assistant. Open a private thread, tag `@Docs Wolf`, and ask your question. The bot will make its best attempt to answer based on the codebase and documentation, and link you to relevant resources.
+3. Step 3: If you still need clarification after reviewing the docs, feel free to **ask the Merkl team** directly. From [the audit page](https://code4rena.com/audits/2025-11-merkl), join the audit and select the `Q & A` tab.
+
+To ensure sponsors can focus their time on questions that truly need their expertise, please: 
+- Reference what you've already checked in the docs
+- Be specific about what you need clarified
+- Use thread replies to keep discussions organized
+
+Good hunting!
+
+## V12 findings
+
+The audit repo includes a list of findings identified by [V12](https://v12.zellic.io/), [Zellic](https://zellic.io)'s in-house AI auditing tool. 
+
+[All issues found by V12](https://github.com/code-423n4/2025-11-merkl?tab=readme-ov-file#v12-findings) will be judged as out of scope and ineligible for awards.
+
+
+[12/01/2025 20:01] C4
+**🚨 AUDIT ALERT**
+
+@🐺Wardens The **Merkl** audit is now closed! Huge thanks to everyone who participated 🔍, whether you submitted a finding or not.
+
+**What's next: **
+- The sponsor team and judge will review the findings over the next couple of weeks. 
+- Progress through the judging, awarding, and reporting phases can be tracked via [the audit page](https://code4rena.com/audits/2025-11-merkl).
+- [How judging works at C4](https://docs.code4rena.com/competitions#how-competitive-audits-work)
+
+{Embed}
+https://docs.code4rena.com/competitions
+Competitions | Code4rena
+How competitive audits work at Code4rena
+
+{Reactions}
+✅ (19) 💯 (8) pepeepic dance_vibe (3) hammer_time (2) itshappening (2) 
+
+[01/16/2026 18:23] itsmetechjay
+🤑 🎉  Awards for **Merkl**:
+
+$1,971.61 USDC » @v2110
+$1,553.55 USDC » @slavina
+$1,553.55 USDC » @0xrochimaru
+$1,553.55 USDC » @araj
+$1,553.55 USDC » @Hard1k
+$1,553.55 USDC » @drdee
+$1,553.55 USDC » @s_a_l_e_m
+$1,553.55 USDC » @Artur
+$1,553.55 USDC » @raven
+$284.21 USDC » @slvDev
+$189.47 USDC » @...
+$126.32 USDC » @Mx
+
+🏁 Findings summary
+--------------------------------------—
+0 High risk findings
+3 Med risk findings
+912 wardens participated
+
+Top Hunter: n/a
+Top Gatherer: 9-way tie: @v2110,  @slavina, @0xrochimaru, @araj, @Hard1k, @drdee, @s_a_l_e_m, @Artur, @raven
+
+Top QA report: @slvDev
+
+Awards will be distributed on Ethereum within the next week. Congratulations all!  💸 💸 💸
+
+⚠️ Awardees, be sure to [complete your tax reporting info](https://docs.code4rena.com/awarding/incentive-model-and-awards/awarding-process#tax-information-for-code4rena-contributors-wardens-judges-etc) if you haven't already. This must be completed within 30 days (i.e. before Monday, 16 February 2026) to receive your award distribution for this audit.
+
+{Reactions}
+c4ship (4) 🔥 (6) 👀 (5) 
+
+[01/19/2026 11:19] cloudellie
+:c4update: Note: 2/3 of the valid Mediums in this competition were [found by V12](https://github.com/code-423n4/2025-11-merkl?tab=readme-ov-file#v12-findings), and are therefore ineligible for awards. 
+
+These findings will be included in the final audit report, however, and are therefore displayed in the audit dashboard as valid findings.
+
+{Reactions}
+👍 (2) 
+
+[03/04/2026 15:00] C4
+ℹ️ This channel is pending archive.   As a result, any private threads will be permanently deleted 03/13/2026 13:49. Please make sure to grab anything you might need before then.
+
+
+[03/12/2026 14:15] C4
+ℹ️ Reminder: this channel will be deleted after 24 hours.
+
+
+==============================================================
+Exported 7 message(s)
+==============================================================
